@@ -18,7 +18,7 @@
 .header {
     background: linear-gradient(to left, #8e9eab, #eef2f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     height: 75px;
-    font-size: 20px;
+    font-size: 18px;
 }
 .nav{
     height: 100%;
@@ -26,7 +26,7 @@
     position: fixed;
 }
 .navitem{
-    width: 20%;
+    width: 10%;
     justify-content: center;
     align-items: center;
 }
@@ -38,4 +38,7 @@
 }
 .font-size {
     font-size: 22px;
+}
+.text-decoration {
+    text-decoration-line: none;
 }
