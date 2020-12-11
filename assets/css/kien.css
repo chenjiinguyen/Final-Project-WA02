@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
 }
+
 .center {
     display: flex;
     align-items: center;
@@ -12,4 +13,12 @@
     height: 50px;
     width: 400px;
     margin-top: 10px;
+}
+
+.fontSize {
+    font-size: 30px;
+}
+
+.imgBorder {
+    border: 3px solid; 
 }
