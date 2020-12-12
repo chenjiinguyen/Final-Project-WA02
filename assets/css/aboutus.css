@@ -3,4 +3,13 @@
 }
 .block-left,.block-right{
     width: 50%;
+    /* color:aqua */
+}
+.second-div center search-box-section{
+/* color:blueviolet     */
+}
+
+.block-left img,.block-right img{
+    width: 100%;
+    height: auto;
 }
