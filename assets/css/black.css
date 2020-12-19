@@ -25,6 +25,7 @@ body{
     background-color: rgb(43, 43, 43);
     border: 0px;
     margin: 0px;
+    z-index: 1000;
 }
 .topnav img{
     border-radius: 100%;
@@ -165,23 +166,23 @@ body{
     font-size: 16px;
     border: none;
     cursor: pointer;
-  }
+}
   
-  .dropdown {
+.dropdown {
     position: relative;
     display: inline-block;
-  }
+}
   
-  .dropdown-content {
+.dropdown-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
-  }
+}
   
-  .dropdown-content a {
+.dropdown-content a {
     color: black;
     padding: 12px 16px;
     text-decoration: none;
@@ -207,8 +208,34 @@ body{
   .Sub{
       font-size: 60px;
       color: palegoldenrod;
-      font-family: Verdana, Geneva, Tahoma, sans-serif;
-      display: flex;
+      font-family: Verdana, Tahoma, sans-serif;
+      /* display: flex;
       align-items: center;
-      justify-content: center;
+      justify-content: center; */
+      /* height: 200px; */
+      text-align: center;
   }
+
+.boruto{
+    margin: 20px 0;
+    width: 100%;
+    display: flex;
+}
+.collum{
+    width: 50%;
+}
+.collum img {
+    width: 100%;
+}
+.collum p{
+    margin: 0px;
+    padding: 83px;
+    /* height: 100%; */
+    font-size: 30px;
+    color: ivory;
+    background-color: rgb(0, 61, 8);
+}
+
+.height-w100 {
+    height: 300px;
+}
