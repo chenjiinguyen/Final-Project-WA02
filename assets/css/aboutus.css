@@ -1,5 +1,6 @@
 .row{
     display: flex;
+    margin-top: 30px;
 }
 .block-left,.block-right{
     width: 50%;
@@ -12,4 +13,8 @@
 .block-left img,.block-right img{
     width: 100%;
     height: auto;
+}
+
+.block-left p,.block-right p,.block-left h2,.block-right h2{
+    padding: 30px 10px;
 }
