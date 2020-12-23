@@ -12,7 +12,7 @@
 
 <body>
     <div class="topnav">
-        <img src="./assets/img/logo.png">
+        <a href="/index.html"><img src="./assets/img/logo.png"></a>
         <input placeholder="Search" class="SearchBar" type="search">
         <i class="fas fa-home icon iconnaruto" style="margin-left: 100px;"></i>
         <a href="/aboutus.html"><i class="fa fa-info-circle iconmadara"></i></a>
@@ -24,8 +24,8 @@
 
     <div class="page-content">
         <div class="gameNameHeader">
-            <div class="game-name">
-                Cyberpunk 2077
+            <div id="game-name" class="game-name">
+
             </div>
             <div style="clear: both;"></div>
         </div>
@@ -33,64 +33,30 @@
     <div id="product-details">
         <div class="app-container">
             <div class="rightcol">
-                <div class="gameImgHeader">
-                    <img class="gameAva"
-                        src="https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg?t=1607590317">
-                </div>
-                <div class="descriptionHeader">
-                    Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed
-                    with
-                    power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind
-                    implant that is the key to immortality.
-                </div>
+                <h1 id="price" style="font-size: 50px; color: white; margin-top: 80px;" class="center"></h1>
+                <button class="buybtn_product">Mua Ngay</button>
             </div>
-
+            <div class="leftcol">
+                <iframe id="gameVideo" class="gameVideo" width="560" height="315" src="" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            </div>
 
         </div>
         <div class="app-container">
-            <div class="gameDescription" style="color: white; line-height: 20px; font-size: 18px;">
-                <h2 style="color: white; margin-bottom: 4px; font-size: 24px;">About This Game</h2></br>
-                <img src="https://steamcdn-a.akamaihd.net/steam/apps/1091500/extras/finnish.gif?t=1607696821"></br>
-                <img
-                    src="https://steamcdn-a.akamaihd.net/steam/apps/1091500/extras/EN-About-the-Game.png?t=1607696821"></br></br>
-                Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis
-                obsessed with power, glamour and body modification. You play as V, a mercenary outlaw
-                going after a
-                one-of-a-kind implant that is the key to immortality. You can customize your character’s cyberware,
-                skillset and playstyle, and explore a vast city where the choices you make shape the story and the world
-                around you.
-                </br>
-                </br>
-                <img
-                    src="https://steamcdn-a.akamaihd.net/steam/apps/1091500/extras/EN-Mercenary-Outlaw.png?t=1607696821">
-                </br>
-                </br>
-                Become a cyberpunk, an urban mercenary equipped with cybernetic enhancements and build
-                your legend on the streets of Night City.
-                </br>
-                </br>
-                <img
-                    src="https://steamcdn-a.akamaihd.net/steam/apps/1091500/extras/EN-City-of-the-Future.png?t=1607696821">
-                </br>
-                </br>
-                Enter the massive open world of Night City, a place that sets new standards in terms of visuals,
-                complexity
-                and depth.
-                </br>
-                </br>
-                <img src="https://steamcdn-a.akamaihd.net/steam/apps/1091500/extras/EN-Eternal-Life.png?t=1607696821">
-                </br>
-                </br>
-                Take the riskiest job of your life and go after a prototype implant that is the key to immortality.
-                </br>
-                </br>
-                <img src="/assets/img/Cyberpunk2077_UpdatedPreorderIncentive.png">
-                </br>
-                </br>
-                <img src="https://steamcdn-a.akamaihd.net/steam/apps/1091500/extras/EN-Social-Media.png?t=1607696821">
+            <h5 style="color: white; margin-bottom: 3px; font-size: 24px;">About This Game</h5>
+            <div id="gameInfo" class="gameDescription"
+                style="color: white; line-height: 22px; font-size: 16px;margin-top: 30px;">
+
             </div>
         </div>
+        <p>
+            
+        </p>
     </div>
 </body>
+<script src="/assets/js/products.js"></script>
 <script src="/assets/js/product-details.js"></script>
+<script src="/assets/js/searchBar.js"></script>
+
 </html>

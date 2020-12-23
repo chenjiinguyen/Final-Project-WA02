@@ -3,8 +3,10 @@
     padding: 0px;
 }
 
-p {
-    font-size: 18px;
+.footer {
+    width: 100%;
+    height: auto;
+    background-color:rgb(0, 41, 131);
 }
 
 .app-container {
@@ -64,7 +66,9 @@ p {
     height: 270px;
     margin-top: 20px;
     margin-right: 20px;
-    border: 1px solid #000;
+    border: 3px solid #000;
+    font-family: "Motiva Sans", Sans-serif;
+    font-weight: bold;
 }
 
 .thumbnail-product{
@@ -97,6 +101,26 @@ p {
     margin-left: auto;
     font-size: 12px;
     cursor: pointer;
+}
+
+.buybtn_product {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #2194ff;
+    border: 1px solid #2194ff;
+    border-radius: 3px;
+    padding: 3px 18px;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 12px;
+    cursor: pointer;
+    margin-top: 30px;
+    font-size: 30px;
+    background: aliceblue;
 }
 
 .leftcol {
@@ -156,17 +180,20 @@ p {
 }
 
 .gameDescription {
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; */
     line-height: 18px;
     font-size: 14px;
     margin-top: 30px;
-    overflow: hidden;
-    font-family: "Motiva Sans", Sans-serif;
+    font-family: Motiva Sans, Sans-serif;
     font-weight: normal;
 }
 
 body{
     /* background-image: url('https://indainam.com/wp-content/uploads/2017/10/mau-background-don-gian-01-1024x640.jpg'); */
-    background-color: #224260;
+    background-color: #173958;
     background-repeat: repeat;
     background-size: cover;
     background-attachment: fixed;
