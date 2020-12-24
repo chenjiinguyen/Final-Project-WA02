@@ -103,8 +103,8 @@ let products = [
         “Stories Untold” was developed by No Code, a Glasgow based ex-AAA development team headed up by Jon McKellan (Alien: Isolation) and Omar Khan.
         </p></br>
         <img src="https://steamcdn-a.akamaihd.net/steam/apps/558420/ss_9daaa1ace9bb321c3bce70403ef524825cde128e.600x338.jpg?t=1568650809"></br></br>
-        <p>Features:</br>
-
+        <strong>Features:</strong></br>
+        <p>
         - Four unique stories, with their own settings, gameplay and mechanics.</br>
         - Play mind-bending text adventures, process radio transmissions and conduct experiments on bizarre artifacts.</br>
         - Gorgeous retro-aesthetic brings back vivid memories, or a glimpse into what was.</br>
@@ -224,21 +224,21 @@ let products = [
         <p>Choose your fate in Assassin's Creed® Odyssey.
         From outcast to living legend, embark on an odyssey to uncover the secrets of your past and change the fate
         of Ancient Greece.</p></br>
-        <h4>TRAVEL TO ANCIENT GREECE</h4>
+        <strong>TRAVEL TO ANCIENT GREECE</strong>
         <p>From lush vibrant forests to volcanic islands and bustling cities, start a journey of exploration and
         encounters in a war torn world shaped by gods and men.</p></br>
         <img src="https://steamcdn-a.akamaihd.net/steam/apps/812140/ss_0ef33c0f230da6ebac94f5959f0e0a8bbc48cf8a.600x338.jpg?t=1602601042"></br></br>
-        <h4>FORGE YOUR LEGEND</h4>
+        <strong>FORGE YOUR LEGEND</strong>
         <p>Your decisions will impact how your odyssey unfolds. Play through multiple endings thanks to the new
         dialogue system and the choices you make. Customize your gear, ship, and special abilities to become a
         legend.</p></br>
         <img src="https://steamcdn-a.akamaihd.net/steam/apps/812140/ss_c334fed07712111399ab1951eee432ec9ed46d28.600x338.jpg?t=1602601042"></br></br>
-        <h4>FIGHT ON A NEW SCALE</h4>
+        <strong>FIGHT ON A NEW SCALE</strong>
         <p>Demonstrate your warrior's abilities in large scale epic battles between Athens and Sparta featuring
         hundreds of soldiers, or ram and cleave your way through entire fleets in naval battles across the Aegean
         Sea.</p></br>
         <img src="https://steamcdn-a.akamaihd.net/steam/apps/812140/ss_71f5c2052a6bfb94486e929db3d6b92c06696843.600x338.jpg?t=1602601042"></br></br>
-        <h4>GAZE IN WONDER</h4>
+        <strong>GAZE IN WONDER</strong>
         <p>Experience the action in a whole new light with Tobii Eye Tracking. The Extended View feature gives you a
         broader perspective of the environment, and the Dynamic Light and Sun Effects immerse you in the sandy dunes
         according to where you set your sights. Tagging, aiming and locking on your targets becomes a lot more
@@ -256,15 +256,15 @@ let products = [
         secrets and forgotten myths as you go back to the one founding moment: The Origins of the Assassin’s
         Brotherhood.</p></br>
         <img src="https://steamcdn-a.akamaihd.net/steam/apps/582160/ss_1a0ab42e93e51c48ad9a6bda7f408958e09a43b0.600x338.jpg?t=1603213581"></br></br>
-        <h4>A COUNTRY TO DISCOVER</h4>
+        <strong>A COUNTRY TO DISCOVER</strong>
         <p>Sail down the Nile, uncover the mysteries of the pyramids or fight your way against dangerous ancient
         factions and wild beasts as you explore this gigantic and unpredictable land.</p></br>
         <img src="https://steamcdn-a.akamaihd.net/steam/apps/582160/ss_1a0ab42e93e51c48ad9a6bda7f408958e09a43b0.600x338.jpg?t=1603213581"></br></br>
-        <h4>A NEW STORY EVERY TIME YOU PLAY</h4>
+        <strong>A NEW STORY EVERY TIME YOU PLAY</strong>
         <p>Engage into multiple quests and gripping stories as you cross paths with strong and memorable characters,
         from the wealthiest high-born to the most desperate outcasts.</p></br>
         <img src="https://steamcdn-a.akamaihd.net/steam/apps/582160/ss_06861f6dd939c78a919db95bb8e75506216d3eb4.600x338.jpg?t=1603213581"></br></br>
-        <h4>EMBRACE ACTION-RPG</h4>
+        <strong>EMBRACE ACTION-RPG</strong>
         <p>Experience a completely new way to fight. Loot and use dozens of weapons with different characteristics and
         rarities. Explore deep progression mechanics and challenge your skills against unique and powerful bosses.</p></br>
         <img src="https://steamcdn-a.akamaihd.net/steam/apps/582160/ss_c4a4545f51c6836ac11c31427944fc7df813edfb.600x338.jpg?t=1603213581"></br>`
@@ -413,7 +413,7 @@ let products = [
         critical research, and building invaluable tools for the few humans brave enough to defy the Combine.</p></br>
         <p>Every day, you learn more about your enemy, and every day you work toward finding a weakness.</p></br>
         <img src="https://steamcdn-a.akamaihd.net/steam/apps/546560/ss_d61365e93f20ceb5a94a1e5b2811cf504cbfa303.600x338.jpg?t=1605207546"></br></br>
-        <p>ABOUT GAMEPLAY IN VR:</br></br>
+        <strong>ABOUT GAMEPLAY IN VR:</strong></br></br><p>
             Valve’s return to the Half-Life universe that started it all was built from the ground up for virtual
             reality. VR was built to enable the gameplay that sits at the heart of Half-Life.</br></br>
 
@@ -423,7 +423,7 @@ let products = [
             find a healing syringe and some shotgun shells. Manipulate tools to hack alien interfaces. Toss a bottle
             through a window to distract an enemy. Rip a Headcrab off your face and throw it out the window.</p></br>
         <img src="https://steamcdn-a.akamaihd.net/steam/apps/546560/ss_5d228b092e93ff148e6a998c33e751fb968cc956.600x338.jpg?t=1605207546"></br></br>
-        <p>COMMUNITY-BUILT ENVIRONMENTS:</br></br>
+        <strong>COMMUNITY-BUILT ENVIRONMENTS:</strong></br></br>
 
         A set of Source 2 tools for building new levels is included with the game, enabling any player to build and
         contribute new environments for the community to enjoy through Half-Life: Alyx's Steam Workshop. Hammer,
@@ -458,11 +458,11 @@ let products = [
         infomation: `<p>"The most fun you can have online" - PC Gamer</br>
         Is now FREE!</br>
         There’s no catch! Play as much as you want, as long as you like!</p></br>
-        <p>The most highly-rated free game of all time!</br>
+        <strong>The most highly-rated free game of all time!</strong></br>
         One of the most popular online action games of all time, Team Fortress 2 delivers constant free updates—new
         game modes, maps, equipment and, most importantly, hats. Nine distinct classes provide a broad range of
         tactical abilities and personalities, and lend themselves to a variety of player skills.</p></br>
-        <p>New to TF? Don’t sweat it!</br>
+        <strong>New to TF? Don’t sweat it!</strong></br>
         No matter what your style and experience, we’ve got a character for you. Detailed training and offline
         practice modes will help you hone your skills before jumping into one of TF2’s many game modes, including
         Capture the Flag, Control Point, Payload, Arena, King of the Hill and more.</p></br>
@@ -526,7 +526,11 @@ let products = [
         youtube_id: "VqeMjHmL9eg",
         price: 700000,
         image: "https://cdn.cloudflare.steamstatic.com/steam/apps/1237970/header.jpg?t=1593732268",
-        infomation: ``
+        infomation: `<img src="https://steamcdn-a.akamaihd.net/steam/apps/1237970/extras/TF2logoPRIMARYcmyk.png?t=1605645997"></br></br>
+        <p>Call down your Titan and get ready for an exhilarating first-person shooter experience in Titanfall® 2! The
+        sequel introduces a new single player campaign that explores the bond between Pilot and Titan. Or blast your
+        way through an even more innovative and intense multiplayer experience - featuring 6 new Titans, deadly new
+        Pilot abilities, expanded customization, new maps, modes, and much more.</p>`
     }, {
         id: "beyondasteelsky",
         name: "Beyond a Steel Sky",
