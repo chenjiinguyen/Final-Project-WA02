@@ -8,35 +8,31 @@ let products = [
         infomation: `<img src="https://steamcdn-a.akamaihd.net/steam/apps/1091500/extras/finnish.gif?t=1607696821"></br>
         <img
             src="https://steamcdn-a.akamaihd.net/steam/apps/1091500/extras/EN-About-the-Game.png?t=1607696821"></br></br>
-            Cyberpunk 2077 là một thế giới mở, câu chuyện phiêu lưu hành động lấy bối cảnh ở Night City, một megalopolis
-            bị ám ảnh bởi sức mạnh, sự quyến rũ và sửa đổi cơ thể. Bạn chơi như V, một lính đánh thuê ngoài vòng pháp luật
-            đi sau khi một
-            cấy ghép có một không hai là chìa khóa cho sự bất tử. Bạn có thể tùy chỉnh phần mềm mạng của nhân vật,
-            skillset và playstyle, và khám phá một thành phố rộng lớn, nơi các lựa chọn bạn thực hiện hình thành câu chuyện và thế giới
-            xung quanh bạn.
+            Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis
+            obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a
+            one-of-a-kind implant that is the key to immortality. You can customize your character’s cyberware, skillset
+            and playstyle, and explore a vast city where the choices you make shape the story and the world around you.
         </br>
         </br>
         <img
             src="https://steamcdn-a.akamaihd.net/steam/apps/1091500/extras/EN-Mercenary-Outlaw.png?t=1607696821">
         </br>
         </br>
-        Trở thành một cyberpunk, một lính đánh thuê đô thị được trang bị các cải tiến điều khiển học và xây dựng
-        huyền thoại của bạn trên các đường phố của Night City.
+        Become a cyberpunk, an urban mercenary equipped with cybernetic enhancements and build
+        your legend on the streets of Night City.
         </br>
         </br>
         <img
             src="https://steamcdn-a.akamaihd.net/steam/apps/1091500/extras/EN-City-of-the-Future.png?t=1607696821">
         </br>
         </br>
-        Bước vào thế giới mở rộng lớn của Night City, một nơi đặt ra các tiêu chuẩn mới về mặt hình ảnh,
-        Phức tạp
-        và chiều sâu.
+        Enter the massive open world of Night City, a place that sets new standards in terms of visuals, complexity and depth.
         </br>
         </br>
         <img src="https://steamcdn-a.akamaihd.net/steam/apps/1091500/extras/EN-Eternal-Life.png?t=1607696821">
         </br>
         </br>
-        Đi theo công việc rủi ro nhất của cuộc sống của bạn và đi sau khi cấy ghép nguyên mẫu đó là chìa khóa để bất tử.    
+        Take the riskiest job of your life and go after a prototype implant that is the key to immortality.    
         </br>
         </br>
         <img src="/assets/img/Cyberpunk2077_UpdatedPreorderIncentive.png">
@@ -530,28 +526,95 @@ let products = [
         <p>Call down your Titan and get ready for an exhilarating first-person shooter experience in Titanfall® 2! The
         sequel introduces a new single player campaign that explores the bond between Pilot and Titan. Or blast your
         way through an even more innovative and intense multiplayer experience - featuring 6 new Titans, deadly new
-        Pilot abilities, expanded customization, new maps, modes, and much more.</p>`
+        Pilot abilities, expanded customization, new maps, modes, and much more.</p></br>
+        <strong>KEY FEATURES:</strong></br>
+        <strong>- Experience a captivating single player story.</strong>
+        Titanfall® 2 features a single player campaign packed with
+        action and inventive twists. Play as a Militia rifleman stranded behind enemy lines, who encounters a
+        veteran Vanguard-class Titan. The two must work together to uphold a mission they were never meant to carry
+        out.</br></br>
+        <strong>- Enjoy multiplayer action that's second to none.</strong> The sequel gives players more of the adrenaline-fueled
+        multiplayer combat they've come to expect from the franchise. Take the fast-paced, first-person action to
+        the next level with more Titans, deadlier Pilot abilities, and much more. And be sure to stand out in the
+        middle of all the chaos with new, expanded Pilot, Titan and loadout personalization options!</br></br>
+        <strong>Awards</strong></br></br>
+        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1237970/extras/TF2_Critics.png?t=1605645997"></br>`
     }, {
         id: "beyondasteelsky",
         name: "Beyond a Steel Sky",
         youtube_id: "DjgYZlL9mTA",
         price: 188000,
         image: "https://steamcdn-a.akamaihd.net/steam/apps/1146310/header.jpg?t=1594918527",
-        infomation: ``
+        infomation: `<p>
+        From Charles Cecil, creator of the Broken Sword series, with art direction by Dave Gibbons, legendary comic
+        book artist behind ‘Watchmen’, comes ‘Beyond A Steel Sky’, the long awaited sequel to the cult classic
+        ‘Beneath a Steel Sky’.</p></br>
+        <p>You are Robert Foster. A child has been abducted in a brutal attack. You have vowed to bring him home. The
+        trail has led you to Union City, one of the last remaining mega-cities in a world ravaged by shattering
+        wars, and political meltdown.</p></br>
+        <p>Union City is a utopia, its people loving life under the control of an altruistic AI: ever-attentive
+        androids, designer living, piazzas and bars. What’s not to love? But this City has a dark underbelly...</p></br>
+        <p>‘Beyond a Steel Sky’ is a dramatic, humorous, cyberpunk thriller in which engaging puzzles drive a
+        fast-paced narrative set in a dynamic gameworld that responds to – and is subverted by – the player’s
+        actions.</p></br>
+        <strong>Features:</strong></br>
+        <strong>The World</strong></br>
+        <p>An adventure set within a dynamic world, populated by wilful characters driven by motivations that the
+        player can subvert. In combination with a unique hacking tool, multiple solutions to puzzles emerge from
+        player choices.</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1146310/extras/BASS_Steam_welcome.gif?t=1605618419"></br></br>
+        <strong>The Story</strong></br>
+        <p>Unravel dark conspiracies, defeat a terrifying antagonist in this dramatic, humorous, cyberpunk thriller,
+        which explores contemporary themes: social control, AI, and total surveillance.</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1146310/extras/UnionPan_BASS.gif?t=1605618419"></br></br>
+        <strong>The Puzzles</strong></br>
+        <p>Intelligent puzzles are interwoven with an intriguing dramatic narrative to deliver a compelling gameplay experience.</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1146310/extras/BASS_Steam_talk.gif?t=1605618419"></br></br>
+        <strong>The Look</strong></br>
+        <p>A beautifully detailed, comic-book styled world, from the mind of legendary comic artist Dave Gibbons.</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1146310/extras/BASS_Steam_art.gif?t=1605618419"></br>`
     }, {
         id: "resolutiion",
         name: "Resolutiion",
         youtube_id: "wk9v5w7ZEx0",
         price: 188000,
         image: "https://steamcdn-a.akamaihd.net/steam/apps/975150/header.jpg?t=1595154891",
-        infomation: ``
+        infomation: `<p>An old killer escorts a curious AI through chaotic combat, puzzling secrets, and unsettling calm in a
+        dreamscape of madmen and sane animals.</p></br>
+        <p>Resolutiion is a fast-paced action-adventure created by two angry German brothers leading a band of vagrants
+        who loaded it with lovely pixels, dirty jokes, deep ideas and badassemotional tunes for 20 hours of
+        punishing combat, rewarding exploration, and layered storytelling. Will you be the player or will you be
+        played? In the Infinite Empire nothing is as it seems.</p></br>
+        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/975150/extras/combat_res_apng_3.png?t=1604476500"></br></br>
+        <p>Explore a fractured future, gathering weird weapons and stories, to piece together the past: a friend betrayed, a family broken, worlds at war.</p></br>
+        <p>To solve the mystery of the Cradles take on a multi-cultural-mashup of cynical gods, emotional machines,
+        zealots, luddites, and furry critters in a world that doesn’t care if it confuses or kills you — oh hey, a
+        kitty!</p></br>
+        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/975150/extras/cybercity.png?t=1604476500"></br>`
     }, {
-        id: "röki",
+        id: "roki",
         name: "Röki",
         youtube_id: "9nNQNpC6b4I",
         price: 187000,
         image: "https://steamcdn-a.akamaihd.net/steam/apps/1067540/header.jpg?t=1595489046",
-        infomation: ``
+        infomation: `</br></br>
+        <strong>Every dark fairytale has its monster.</strong>
+        <p>Rediscover magic and chart your adventure through this forgotten northern world of mystery and monsters. Find your courage, discover hidden paths, solve ancient puzzles and travel deeper through the icy land to learn the truth.</p></br>
+        <p>Join <strong>Tove</strong> on a fantastical journey to save her family; one that takes her deep into a hidden, long forgotten world of folklore, filled with strange locations and even stranger creatures.
+        Explore the ancient wilderness, solve its mysteries, and save your family in this modern adventure game for all.</p></br></br>
+        <strong>EXPLORE a Living Fairy Tale Forest</strong></br>
+        <p>Explore a rich, beguiling Northern world of mystery and monsters; filled with detail and brought to life by Roki's signature graphical style.</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1067540/extras/SteamGIF_OpeningWalk.gif?t=1607081249"></br></br>
+        <strong>SEARCH for Long Forgotten Items</strong></br>
+        <p>The ancient wilderness holds many secrets. Seek out long forgotten items to aid you on your adventure.</p></br>
+        <strong>SOLVE the Riddles of the Wilderness</strong></br>
+        <p>Röki is a game of brains not brawn. Can you unlock ancient pathways and solve the riddles of the ancients?</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1067540/extras/SteamGIF_Church_Int.gif?t=1607081249"></br</br>
+        <strong>CHART your Journey</strong></br>
+        <p>Tove charts her progress in her trusty journal - it’s her grail diary. Map uncharted regions, delve into the rich Scandinavian folklore, collect loot and earn unique ‘wilderness explorer’ badges.</p></br>
+        <strong>An ADVENTURE For ALL</strong></br>
+        <p><strong>Röki</strong> is an adventure game for ALL gamers - with its non-violent gameplay, accessible controls and universal themes.. The game is designed uniquely to pose a challenge, but to also offer a helping hand when adventurers need it. A truly modern take on the adventure game genre.</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1067540/extras/UL_logo_600x100_white.png?t=1607081249"></br>`
     }, {
         id: "darq",
         name: "DARQ",
@@ -611,7 +674,7 @@ let products = [
     }, {
         id: "doometernal",
         name: "DOOM Eternal",
-        youtube_id: "_UuktemkCFI",
+        youtube_id: "FkklG9MA0vM",
         price: 1350000,
         image: "https://steamcdn-a.akamaihd.net/steam/apps/782330/header.jpg?t=1589577706",
         infomation: ``
