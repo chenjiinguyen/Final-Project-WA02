@@ -1,0 +1,33 @@
+.row{
+    display: flex;
+    margin-top: 30px;
+}
+.block-left,.block-right{
+    width: 50%;
+    color:aqua
+}
+.block-middle{
+    max-width: 500px;
+    margin: auto;
+}
+.block-left img,.block-right img{
+    width: 100%;
+    height: auto;
+}
+
+.block-left p,.block-right p,.block-left h2,.block-right h2{
+    padding: 30px 10px;
+}
+
+
+.search-box{
+    width: 200px;
+    height: 30px;
+}
+.search-button{
+    width: 30px;
+    height: 30px;
+}
+
+
+

@@ -1,0 +1,263 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.app-container {
+    width: 940px;
+    height: 350px;
+    margin-left: 292px;
+    margin-right: 292px;
+}
+.container-product {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin: auto;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.product-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.searchbox {
+    height: 55px;
+    width: 400px;
+    margin-top: 10px;
+}
+
+.fontSize {
+    font-size: 15px;
+}
+
+.imgBorder {
+    border: 3px solid; 
+    width: 40%;
+    height: 100%;
+    margin-left: 40px;
+}
+
+.products{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product {
+    width: 230px;
+    height: 270px;
+    margin-top: 20px;
+    margin-right: 20px;
+    border: 1px solid #000;
+}
+
+.thumbnail-product{
+    width: 100%;
+    height: 40%;
+}
+
+.thumbnail-product img{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.searchbtn {
+    width: 80px;
+    height: 50px;
+}
+
+.buybtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #2194ff;
+    border: 1px solid #2194ff;
+    border-radius: 3px;
+    padding: 3px 18px;
+    width: fit-content;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.leftcol {
+    width: 616px;
+    float: left;
+}
+
+.rightcol {
+    width: 324px;
+    margin-left: 0px;
+    float: right;
+}
+
+.descriptionHeader {
+    color: white;
+    max-height: 140px;
+    overflow: hidden;
+    font-size: 16px;
+    line-height: 18px;
+    padding-right: 16px;
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+}
+
+.gameAva {
+    width: 324px;
+    height: 151px;
+}
+
+.gameImgHeader {
+    margin-bottom: 7px;
+}
+
+.gameVideo {
+    width: 600px;
+    height: 340px;
+} 
+
+.page-content {
+    width: 940px;
+    margin: 0px auto;
+}
+
+.gameNameHeader {
+    max-width: 948px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-right: auto;
+}
+
+.game-name {
+    color: white;
+    font-family: Motiva Sans, Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-overflow: ellipsis;
+}
+
+.gameDescription {
+    line-height: 18px;
+    font-size: 14px;
+    margin-top: 30px;
+    overflow: hidden;
+    font-family: "Motiva Sans", Sans-serif;
+    font-weight: normal;
+}
+
+body{
+    /* background-image: url('https://indainam.com/wp-content/uploads/2017/10/mau-background-don-gian-01-1024x640.jpg'); */
+    background-color: #224260;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    /* height: 10000px; */
+    overflow-x: hidden;
+    margin: 0px;
+    font-family: "Motiva Sans", Arial, Helvetica, sans-serif;
+}
+.pic1{
+    background-color: rgba(0, 255, 255, 0.219);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
+    margin-top: 90px;
+    height: 400px;
+
+} 
+.topnav{
+    width: 100%;
+    height: 60px;
+    background-color:white;
+    border: 0px;
+    margin: 0px;
+}
+.topnav img{
+    border-radius: 100%;
+    height: 40px;
+    width: 40px;
+    float: left;
+    margin: 10px;
+}
+
+.mainchinh{
+    display: flex;
+    justify-content: center;
+}
+.SearchBar{
+    height: 50%;
+    width: 17%;
+    border-radius: 20px;
+    margin-top: 15px;
+    font-size: 20px;
+    background-color: rgb(230, 230, 230);
+    border: 0px;
+    background-image: url('/assets/img/searchw.jpg');
+    background-position: 10px;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    padding: 4px 15px 2px 30px;
+    color: rgb(0, 0, 0);
+    outline: none;
+    margin-right: 30px;
+}
+.SearchBar:hover
+::placeholder{
+    font-size: 10px;
+    
+}
+.iconnaruto{
+    color: rgb(0, 100, 250);
+    font-size: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom:12px;
+    border-bottom: 3px solid rgb(0, 100, 250);
+    margin-left: 30px;
+    padding-top: 14px;
+    cursor: pointer;
+}
+.iconmadara{
+    color: rgb(77, 77, 77);
+    font-size: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom:12px;
+    border-bottom: 3px solid rgb(77, 77, 77);
+    margin-left: 30px;
+    padding-top: 14px;
+    cursor: pointer;
+}
+.iconmadara:hover{
+    background-color: rgba(145, 145, 145, 0.164);
+}
+.iconnaruto:hover{
+    background-color: rgba(145, 145, 145, 0.164);
+}
+.itachi{
+    float: right;
+}
+.iconhinata{
+    font-size: 40px;
+    border: 5px solid green;
+}
