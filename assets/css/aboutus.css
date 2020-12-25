@@ -2,7 +2,12 @@
     display: flex;
     margin-top: 30px;
 }
-.block-left,.block-right{
+.block-left {
+    width: 50%;
+    color:aqua;
+    margin-left: 20px;
+}
+.block-right {
     width: 50%;
     color:aqua
 }

@@ -165,8 +165,7 @@ p {
 }
 
 body{
-    /* background-image: url('https://indainam.com/wp-content/uploads/2017/10/mau-background-don-gian-01-1024x640.jpg'); */
-    background-color: #224260;
+    background-color: rgba(43, 43, 43, 0.932);
     background-repeat: repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -174,23 +173,24 @@ body{
     /* height: 10000px; */
     overflow-x: hidden;
     margin: 0px;
-    font-family: "Motiva Sans", Arial, Helvetica, sans-serif;
+
 }
 .pic1{
-    background-color: rgba(0, 255, 255, 0.219);
+    background-color:rgb(43, 43, 43) ;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 90%;
-    margin-top: 90px;
-    height: 400px;
+    width: 100%;
+    
+    height: 390px;
 
 } 
 .topnav{
     width: 100%;
     height: 60px;
-    background-color:white;
+    background-color: rgb(43, 43, 43);
     border: 0px;
     margin: 0px;
+    z-index: 1000;
 }
 .topnav img{
     border-radius: 100%;
@@ -210,14 +210,14 @@ body{
     border-radius: 20px;
     margin-top: 15px;
     font-size: 20px;
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(58, 58, 58);
     border: 0px;
-    background-image: url('/assets/img/searchw.jpg');
+    background-image: url('/assets/img/search.jpg');
     background-position: 10px;
     background-size: 20px 20px;
     background-repeat: no-repeat;
     padding: 4px 15px 2px 30px;
-    color: rgb(0, 0, 0);
+    color: white;
     outline: none;
     margin-right: 30px;
 }
@@ -238,26 +238,169 @@ body{
     cursor: pointer;
 }
 .iconmadara{
-    color: rgb(77, 77, 77);
+    color: rgb(209, 209, 209);
     font-size: 30px;
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom:12px;
-    border-bottom: 3px solid rgb(77, 77, 77);
+    border-bottom: 3px solid rgb(209, 209, 209);
     margin-left: 30px;
     padding-top: 14px;
     cursor: pointer;
 }
 .iconmadara:hover{
-    background-color: rgba(145, 145, 145, 0.164);
+    background-color: rgba(255, 255, 240, 0.164);
 }
 .iconnaruto:hover{
-    background-color: rgba(145, 145, 145, 0.164);
+    background-color: rgba(255, 255, 240, 0.164);
 }
 .itachi{
     float: right;
 }
 .iconhinata{
     font-size: 40px;
-    border: 5px solid green;
+    border: 3px solid rgb(58, 58, 58);
+    border-radius: 100%;
+    margin: none;
+    
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-bottom: 7px ;
+    margin-right: 10px;
+    background-color: rgb(58, 58, 58);
+    cursor: pointer;
+}
+
+.iconhinata:hover   {
+    border: 3px solid gray;
+    background-color: gray;
+}
+.iconsunade{
+    font-size: 30px;
+    border: 3px solid rgb(58, 58, 58);
+    border-radius: 100%;
+    margin: none;   
+    padding:9px;
+    padding-left: 11px;
+    padding-right: 11px;
+    background-color: rgb(58, 58, 58);
+    margin-right: 10px;
+}
+.iconsunade:hover   {
+    border: 3px solid gray;
+    background-color:  gray;
+}
+.iconavatar{
+    font-size: 30px;
+    border: 3px solid rgb(58, 58, 58);
+    border-radius: 100%;
+    margin: none;   
+    padding:9px;
+    padding-left: 11px;
+    padding-right: 11px;
+    background-color: rgb(58, 58, 58);
+    margin-right: 10px;
+}
+.iconavatar:hover   {
+    border: 3px solid gray;
+    background-color:  gray;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+.kakasi{
+    background-color: rgb(43, 43, 43);
+    width: 100%;
+    height: 10px;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    color: rgb(43, 43, 43);
+    
+}
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+  
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+  
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+  }
+  .title{
+      font-size: 40px;
+      color: rgb(255, 255, 86);
+      margin-left: 90px;
+      text-align: center;
+      
+  }
+  .Sub{
+      font-size: 60px;
+      color: palegoldenrod;
+      font-family: Verdana, Tahoma, sans-serif;
+      /* display: flex;
+      align-items: center;
+      justify-content: center; */
+      /* height: 200px; */
+      text-align: center;
+  }
+
+.boruto{
+    margin: 20px 0;
+    width: 100%;
+    display: flex;
+}
+.collum{
+    width: 50%;
+}
+.collum img {
+    width: 100%;
+}
+.collum p{
+    margin: 0px;
+    padding: 83px;
+    /* height: 100%; */
+    font-size: 30px;
+    color: ivory;
+    background-color: rgb(0, 61, 8);
+}
+
+.height-w100 {
+    height: 300px;
 }

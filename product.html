@@ -6,7 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Products</title>
     <link rel="stylesheet" href="/assets/css/master.css">
-    <link rel="stylesheet" href="/assets/css/kien.css">
+    <!-- <link rel="stylesheet" href="/assets/css/kien.css"> -->
+    <link rel="stylesheet" href="./assets/css/aboutus.css">
+    <link rel="stylesheet" href="/assets/css/triet.css">
+    <link rel="stylesheet" href="/assets/css/black.css">
     <script src="https://kit.fontawesome.com/2025467e7d.js" crossorigin="anonymous"></script>
 </head>
 
@@ -18,6 +21,8 @@
         <a href="/aboutus.html"><i class="fa fa-info-circle iconmadara"></i></a>
         <a href="/support.html"><i class="fas fa-question iconmadara"></i></a>
         <div class="itachi">
+            <a href="/signin.html"><i class="iconavatar fa fa-user"></i></a>
+            <a><i class="iconsunade fa fa-bell"></i></a>
             <a><i class="fa fa-sort-down iconhinata"></i></a>
         </div>
     </div>
@@ -58,5 +63,19 @@
 <script src="/assets/js/products.js"></script>
 <script src="/assets/js/product-details.js"></script>
 <script src="/assets/js/searchBar.js"></script>
+<script>
+    window.onscroll = function () { myFunction() };
 
+    var navbar = document.getElementById("navbar");
+    var sticky = navbar.offsetTop;
+
+    function myFunction() {
+        if (window.pageYOffset >= sticky) {
+            navbar.classList.add("sticky")
+        } else {
+            navbar.classList.remove("sticky");
+        }
+    }
+</script>
+<script src="https://kit.fontawesome.com/2025467e7d.js" crossorigin="anonymous"></script>
 </html>

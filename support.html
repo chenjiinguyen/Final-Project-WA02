@@ -4,30 +4,34 @@
 <head>
     <meta charset="Suppor">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>support</title>
+    <title>Support</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
         integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
         crossorigin="anonymous" />
     <link rel="stylesheet" href="/assets/css/aboutus.css">
     <link rel="stylesheet" href="/assets/css/triet.css">
+    <link rel="stylesheet" href="/assets/css/black.css">
+    <!-- <link rel="stylesheet" href="/assets/css/kien.css"> -->
     <script src="https://kit.fontawesome.com/045ac236c9.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
     <div class="topnav">
-        <img src="./assets/img/logo.png">
+        <a href="/index.html"><img src="./assets/img/logo.png"></a>
         <input placeholder="Search" class="SearchBar" type="search">
         <i class="fas fa-home icon iconnaruto" style="margin-left: 100px;"></i>
-        <i class="fa fa-info-circle iconmadara"></i>
-        <i class="fas fa-question iconmadara"></i>
+        <a href="/aboutus.html"><i class="fa fa-info-circle iconmadara"></i></a>
+        <a href="/support.html"><i class="fas fa-question iconmadara"></i></a>
         <div class="itachi">
+            <a href="/signin.html"><i class="iconavatar fa fa-user"></i></a>
+            <a><i class="iconsunade fa fa-bell"></i></a>
             <a><i class="fa fa-sort-down iconhinata"></i></a>
         </div>
     </div>
     <div class="row">
 
         <div class="block-middle">
-            <h1>How can I have you?</h1>
+            <h1 style="color: white;">How can I have you?</h1></br>
             <div class="second-div center search-box-section">
                 <input class="search-box" type="text" placholder="What do you need to help">
                 <button class="search-button">
@@ -38,17 +42,17 @@
         </div>
     </div>
     <div class="row">
-        <div class="block-left">
-            <h3>FAQ:</h3>
+        <div class="block-left" style="font-size: 20px;">
+            <h3>FAQ:</h3></br>
             <ul>
-                <li>Lam sao de tai game</li>
-                <li>Lam sao de nap tien</li>
-                <li>Làm sao để comment về 1 game nào dó</li>        
-                <li>Tại sao bạn đăng nhập không thành công?</li>
-                <li>Tại sao bạn không đăng nhập đc</li>
-                <li>Bạn đăng kí cá nhân thì có được giảm giá hay không?</li>
-                <li>Tại sao bạn bị lỗi tải game?
-                <li>Game này có bị virus hay không?</li>
+                <li>Làm sao để tải game</li></br>
+                <li>Làm sao để nạp tiền</li></br>
+                <li>Làm sao để comment về 1 game nào đó</li></br>
+                <li>Tại sao bạn đăng nhập không thành công?</li></br>
+                <li>Tại sao bạn không đăng nhập đc</li></br>
+                <li>Bạn đăng kí cá nhân thì có được giảm giá hay không?</li></br>
+                <li>Tại sao bạn bị lỗi tải game?</li></br>
+                <li>Game này có bị virus hay không?</li></br>
             </ul>
         </div>
         <div class="block-right">
@@ -56,19 +60,37 @@
         </div>
     </div>
     <div class="row">
-        <div class="block-left">
+        <div class="block-left" style="margin-left: 0px;">
             <img src="https://news.gearvn.com/wp-content/uploads/2019/12/Dead-Cells-IGN-Fantasy-July.jpg" alt="">
 
         </div>
-        <div class="block-right">
+        <div class="block-right center" style="margin-left: 30px; font-size: 20px;">
             <ul>
-                <li>Contact us</li>
-                <li>web support: www.helpyou.com</li>
-                <li>Phone number: 0903928118</li>
+                <li>Contact us</li></br>
+                <li>Web support: www.helpyou.com</li></br>
+                <li>Phone number: 0903928118</li></br>
             </ul>
         </div>
     </div>
     </div>
 </body>
+<script>
+    window.onscroll = function () { myFunction() };
+
+    var navbar = document.getElementById("navbar");
+    var sticky = navbar.offsetTop;
+
+    function myFunction() {
+        if (window.pageYOffset >= sticky) {
+            navbar.classList.add("sticky")
+        } else {
+            navbar.classList.remove("sticky");
+        }
+    }
+</script>
+<script src="https://kit.fontawesome.com/2025467e7d.js" crossorigin="anonymous"></script>
+<script src="/assets/js/products.js"></script>
+<!-- <script src="/assets/js/product-details.js"></script> -->
+<script src="/assets/js/searchBar.js"></script>
 
 </html>
