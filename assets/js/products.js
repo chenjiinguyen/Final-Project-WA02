@@ -597,7 +597,7 @@ let products = [
         youtube_id: "9nNQNpC6b4I",
         price: 187000,
         image: "https://steamcdn-a.akamaihd.net/steam/apps/1067540/header.jpg?t=1595489046",
-        infomation: `</br></br>
+        infomation: `
         <strong>Every dark fairytale has its monster.</strong>
         <p>Rediscover magic and chart your adventure through this forgotten northern world of mystery and monsters. Find your courage, discover hidden paths, solve ancient puzzles and travel deeper through the icy land to learn the truth.</p></br>
         <p>Join <strong>Tove</strong> on a fantastical journey to save her family; one that takes her deep into a hidden, long forgotten world of folklore, filled with strange locations and even stranger creatures.
@@ -616,165 +616,170 @@ let products = [
         <p><strong>Röki</strong> is an adventure game for ALL gamers - with its non-violent gameplay, accessible controls and universal themes.. The game is designed uniquely to pose a challenge, but to also offer a helping hand when adventurers need it. A truly modern take on the adventure game genre.</p></br>
         <img src="https://steamcdn-a.akamaihd.net/steam/apps/1067540/extras/UL_logo_600x100_white.png?t=1607081249"></br>`
     }, {
-        id: "darq",
-        name: "DARQ",
-        youtube_id: "62cplJi7AeY",
-        price: 188000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/433550/header.jpg?t=1593057975",
-        infomation: ``
-    }, {
         id: "iffound",
         name: "If Found...",
         youtube_id: "q_Qs6CjGeQc",
         price: 150000,
         image: "https://steamcdn-a.akamaihd.net/steam/apps/1041920/header.jpg?t=1593019749",
-        infomation: ``
-    }, {
-        id: "inotherwater",
-        name: "In Other Water",
-        youtube_id: "mt8kIBYCs5I",
-        price: 165000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/890720/header.jpg?t=1594948403",
-        infomation: ``
+        infomation: `<p>If Found… is a game about searching for connection.</p></br>
+        <p>On December 31st 1993 in the crumbling ruins of a mansion on Achill Island, Kasio destroys her diary.</p></br>
+        <p>It tells the story of her return home to the West of Ireland, her conflict with her family, the friends she makes, and the challenges she goes through.</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1041920/extras/IfFound_GIF_Select1_Steam.gif?t=1603737669"></br>
+        <p>Everything leads to this night when a black hole will destroy the entire world. Where did it come from? Is there any way to stop it?</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1041920/extras/IfFound_GIF_Select2_Steam.gif?t=1603737669"></br>
+        <p>With brand new gameplay mechanics, beautiful hand-drawn art, and a stunning soundtrack, players will relive Kasio's experiences and see the moments both happy and painful that make up the month of December 1993.</p></br>
+        <p>Features include: awkward crushes, the planet Jupiter, many kisses, a punk concert, confusion, happiness, a cute dog, and a break in.</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1041920/extras/IfFound_GIF_KeyArt_Steam.gif?t=1603737669"></br>`
     }, {
         id: "atomrpgtrudograd",
         name: "ATOM RPG Trudograd",
         youtube_id: "XjUYLxUtrAY",
         price: 145000,
         image: "https://cdn.cloudflare.steamstatic.com/steam/apps/1139940/header.jpg?t=1592049413",
-        infomation: ``
-    }, {
-        id: "yazuka",
-        name: "Yakuza 0",
-        youtube_id: "qGYQVblzl_Y",
-        price: 342000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/638230/header.jpg?t=1593103586",
-        infomation: ``
-    }, {
-        id: "dragonball",
-        name: "DRAGON BALL Z",
-        youtube_id: "1Y-A1kUCvzY",
-        price: 800000,
-        image: "https://cdn.cloudflare.steamstatic.com/steam/apps/851850/header.jpg?t=1592517730",
-        infomation: ``
-    }, {
-        id: "shadowofwar",
-        name: "Shadow of War",
-        youtube_id: "oQ7aLU6rHLk",
-        price: 480000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/356190/header.jpg?t=1575317164",
-        infomation: ``
-    }, {
-        id: "eveonline",
-        name: "Eve Online",
-        youtube_id: "sPFII3ozSHI",
-        price: 345000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/8500/header.jpg?t=1594731673",
-        infomation: ``
+        infomation: `<p><strong>Trudograd</strong> is a stand-alone story expansion to ATOM RPG - a turn-based roleplaying game set
+        in
+        post-apocalyptic Soviet Union.
+        It is inspired by classic cRPG titles of the past, such as early Fallout, Wasteland and Baldur’s Gate
+        series.</p></br>
+        <p>22 years ago the USSR and the Western Bloc destroyed each other in a nuclear inferno. Millions died
+        instantly, society collapsed and technology was sent back into the Middle Ages. You are a member of ATOM –
+        an organization tasked with protecting the post-apocalyptic remnants of humanity.</p></br>
+        <p>Two years ago you – a rookie agent of ATOM – were sent on a dangerous mission into the Soviet Wastes. As a
+        result, you uncovered certain information about a new threat that can potentially destroy the struggling
+        remnants of humanity.</p></br>
+        <p>In ATOM RPG: Trudograd your goal is to travel to a giant post-apocalyptic metropolis that withstood the
+        tests of nuclear obliteration and social collapse. There you must find what is thought to be humanity’s last
+        hope in fending off the menace from outer space!</p></br>
+        <p>Trudograd features:</br>
+        - A large city with its own lore and dozens of varying locations to fight, trade, talk and explore in;</br>
+        - A hardcore turn-based experience with huge amounts of character development paths, combat styles, skills, perks
+        and distinctions;</br>
+        - Unique characters each with their own personality and a robust branching dialogue;</br>
+        - Multiple-solution quests, which actively change the city around you;</br>
+        - Ability to transfer your hero from our previous game (ATOM RPG);</br>
+        - An easy game to pick up. While Trudograd is a continuation of the first game’s plot, it is also friendly towards
+        new players, and will quickly fill you in on the lore and major developments you might have missed;</br>
+        - A result of a two year long community effort, made by players for players. This game encompasses a lot of
+        changes from our previous title, that were inspired by user feedback.</p></br></br>
+        <p>We really hope you will enjoy <strong>ATOM RPG: Trudograd!</strong></p>
+        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1139940/extras/TGWMap_Night_(1).gif?t=1598730958">`
     }, {
         id: "doometernal",
         name: "DOOM Eternal",
         youtube_id: "FkklG9MA0vM",
         price: 1350000,
         image: "https://steamcdn-a.akamaihd.net/steam/apps/782330/header.jpg?t=1589577706",
-        infomation: ``
-    }, {
-        id: "unity",
-        name: "Assassin's Creed® Unity",
-        youtube_id: "uEVD31y8cME",
-        price: 495000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/289650/header.jpg?t=1602601508",
-        infomation: ``
+        infomation: `<p>Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons
+        across dimensions and stop the final destruction of humanity.</p></br>
+        <strong>The Only Thing they Fear... Is You.</strong></br>
+        <p>Experience the ultimate combination of speed and power in DOOM Eternal - the next leap in push-forward,
+            first-person combat.</p></br>
+        <strong>Slayer Threat Level At Maximum</strong></br>
+        <p>Armed with a shoulder-mounted flamethrower, retractable wrist-mounted blade, upgraded guns and mods, and
+        abilities, you're faster, stronger, and more versatile than ever.</p></br>
+        <strong>Unholy Trinity</strong></br>
+        <p>Take what you need from your enemies: Glory kill for extra health, incinerate for armor, and chainsaw demons
+        to stock up on ammo to become the ultimate demon-slayer.</p></br>
+        <strong>Enter Battlemode</strong></br>
+        <p>A new 2 versus 1 multiplayer experience. A fully-armed DOOM Slayer faces off against two player-controlled
+        demons, fighting it out in a best-of-five round match of intense first-person combat.</p></br>`
     }, {
         id: "fallguys",
         name: "Fall Guys: Ultimate Knockout",
         youtube_id: "lFQLOwUNR8g",
         price: 188000,
         image: "https://steamcdn-a.akamaihd.net/steam/apps/1097150/header_alt_assets_2.jpg?t=1608598304",
-        infomation: ``
+        infomation: `<img src="https://steamcdn-a.akamaihd.net/steam/apps/1097150/extras/FG_Discord_Banner.png?t=1608598304"></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1097150/extras/About_This_Game_1.gif?t=1608598304"></br></br>
+        <p>Fall Guys: Ultimate Knockout flings hordes of contestants together online in a mad dash through round after round of escalating chaos until one victor remains! Battle bizarre obstacles, shove through unruly competitors, and overcome the unbending laws of physics as you stumble towards greatness. Leave your dignity at the door and prepare for hilarious failure in your quest to claim the crown!</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1097150/extras/Massive_Online_Pandemonium_1.gif?t=1608598304"></br></br>
+        <p>Massive Online Pandemonium: Dive into a series of ridiculous challenges and wild obstacle courses with masses of other competitors online, all with the hopes of making the cut and advancing to the next round of mayhem.</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1097150/extras/Competitive_Coopertative_1.gif?t=1608598304"></br></br>
+        <p>Competitive & Cooperative: Shift between competitive free-for-alls and cooperative challenges where the losing team all get eliminated!</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1097150/extras/Comically_Physical.gif?t=1608598304"></br></br>
+        <p>Comically Physical: Watch in delight as your fellow competitors bend, bounce, and bash their way to hilarious, physics-based failure!</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1097150/extras/Delightfully_Customizable.gif?t=1608598304"></br></br>
+        <p>Delightfully Customizable: Fail in style with everything from fashionable pineapple couture to the latest in bunny hats available to customize your look in Fall Guys.</p></br>`
     }, {
         id: "amongus",
         name: "Among Us",
         youtube_id: "NSJ4cESNQfE",
         price: 70000,
         image: "https://steamcdn-a.akamaihd.net/steam/apps/945360/header.jpg?t=1607727748",
-        infomation: ``
+        infomation: `<img src="https://steamcdn-a.akamaihd.net/steam/apps/945360/extras/steam_AboutBanner.png?t=1607727748"></br>
+        <p>Play with 4-10 player online or via local WiFi as you attempt to prepare your spaceship for departure, but
+            beware as one or more random players among the Crew are Impostors bent on killing everyone!</p></br>
+            <p>Originally created as a party game, we recommend playing with friends at a LAN party or online using voice
+            chat. Enjoy cross-platform play between Android, iOS and PC.</p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/945360/extras/steam_AboutCrew.png?t=1607727748"></br></br>
+        <p>
+            - Win by completing tasks to prepare the ship or ejecting all Impostors.</br>
+            - React quickly to undo the Impostor's sabotages.</br>
+            - Check the Admin map and Security cameras to keep tabs on other Crewmates.</br>
+            - Report any dead bodies immediately to start discussion of who the suspected Impostor is.</br>
+            - Call emergency meetings to discuss suspicious behavior.</br>
+            - Vote to eject suspected Impostors.</br>
+        </p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/945360/extras/steam_AboutImpostor.png?t=1607727748"></br></br>
+        <p>
+            - Kill crewmates and frame bystanders.</br>
+            - Pretend to run tasks to blend in with the crewmates.</br>
+            - Sneak through the vents to quickly move about the ship.</br>
+            - Use sabotages to cause chaos and divide the crew.</br>
+            - Close doors to trap victims and kill in private.</br>
+        </p></br>
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/945360/extras/steam_AboutMultiPlay.png?t=1607727748"></br>`
     }, {
         id: "finalfantasyxv",
         name: "FINAL FANTASY XV",
         youtube_id: "CNM6o9um1dc",
         price: 1135000,
         image: "https://steamcdn-a.akamaihd.net/steam/apps/637650/header.jpg?t=1592962568",
-        infomation: ``
-    }, {
-        id: "mortalkombat",
-        name: "Mortal Kombat 11",
-        youtube_id: "UoTams2yc0s",
-        price: 590000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/976310/header.jpg?t=1607567250",
-        infomation: ``
-    }, {
-        id: "talesvol1",
-        name: "Tales From Off-Peak City Vol. 1",
-        youtube_id: "nvZKZRC53is",
-        price: 120000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/1129920/header.jpg?t=1599656490",
-        infomation: ``
-    }, {
-        id: "monstertrain",
-        name: "Monster Train",
-        youtube_id: "ZJ6ayvNJDjs",
-        price: 154000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/1102190/header.jpg?t=1607633763",
-        infomation: ``
-    }, {
-        id: "gearstactics",
-        name: "Gears Tactics",
-        youtube_id: "M5eYR5Pu4Io",
-        price: 240000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/1184050/header.jpg?t=1607130192",
-        infomation: ``
-    }, {
-        id: "ancientcities",
-        name: "Ancient Cities",
-        youtube_id: "DtzsjCk2WNo",
-        price: 390000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/667610/header.jpg?t=1608664663",
-        infomation: ``
-    }, {
-        id: "desperados3",
-        name: "Desperados III",
-        youtube_id: "PeJ9G77rau4",
-        price: 567000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/610370/header.jpg?t=1608296592",
-        infomation: ``
-    }, {
-        id: "assemblewithcare",
-        name: "Assemble with Care",
-        youtube_id: "04i8usL2lF0",
-        price: 100000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/1202900/header.jpg?t=1592820077",
-        infomation: ``
-    }, {
-        id: "kentucky",
-        name: "Kentucky Route Zero",
-        youtube_id: "bp8f7zWwRjo",
-        price: 220000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/231200/header.jpg?t=1580248879",
-        infomation: ``
-    }, {
-        id: "townscaper",
-        name: "Townscaper",
-        youtube_id: "bTt38k29gTM",
-        price: 80000,
-        image: "https://steamcdn-a.akamaihd.net/steam/apps/1291340/header.jpg?t=1596479315",
-        infomation: ``
+        infomation: `<img src="https://steamcdn-a.akamaihd.net/steam/apps/637650/extras/FFXV_WindowsEdition_10s_v4.jpg?t=1592962568"></br>
+        <p>Get ready to be at the centre of the ultimate fantasy adventure, now for Windows PC.</p></br>
+        <p>Joined by your closest friends on the roadtrip of a lifetime through a breathtaking open world, witness
+            stunning landscapes and encounter larger-than-life beasts on your journey to reclaim your homeland from an
+            unimaginable foe.</p></br>
+            <p>In an action-packed battle system, channel the power of your ancestors to warp effortlessly through the air
+            in thrilling combat, and together with your comrades, master the skills of weaponry, magic and team-based
+            attacks.</p></br>
+            <p>Now realised with the power of cutting-edge technology for Windows PCs, including support for
+            high-resolution displays and HDR10, the beautiful and carefully-crafted experience of FINAL FANTASY XV can
+            be explored like never before.</p></br>
+        <strong>KEY FEATURES:</strong></br></br>
+        <p>Includes all of the exciting content released as part of continuous game updates (Chapter 13 alternate route, off-road Regalia customisation, character swap feature and more!). And comes with all of content released in the Season Pass - Episode Gladiolus, Episode Prompto, Multiplayer Expansion: Comrades, and Episode Ignis
+        Get ready to be at the centre of the ultimate fantasy adventure.</p></br>`
     }, {
         id: "flightsimulator",
         name: "Microsoft Flight Simulator",
         youtube_id: "TYqJALPVn0Y",
         price: 1340000,
         image: "https://steamcdn-a.akamaihd.net/steam/apps/1250410/header.jpg?t=1607740657",
-        infomation: ``
+        infomation: `<p>From light planes to wide-body jets, fly highly detailed and accurate aircraft in the next generation of
+        Microsoft Flight Simulator. Test your piloting skills against the challenges of night flying, real-time
+        atmospheric simulation and live weather in a dynamic and living world. Create your flight plan to anywhere
+        on the planet. Microsoft Flight Simulator includes 20 highly detailed planes with unique flight models and
+        30 hand-crafted airports.</p></br>
+
+        <strong>The World is at your Fingertips.</strong></br>
+        <p>• Vivid and Detailed Landscapes – Immerse yourself in the vast and beautiful world that is our planet with
+        over 37 thousand airports, 1.5 billion buildings, 2 trillion trees, mountains, roads, rivers and more.</br>
+        • Living World – Earth is vibrant and ever-changing and so is the world of Microsoft Flight Simulator which
+        includes live traffic, real-time weather and animals.</p></br>
+
+        <strong>Earn Your Wings.</strong></br>
+        <p>• Aircraft – Hone your pilot skills in a variety of aircraft from light planes to commercial jets with
+        comprehensive flight models. Every aircraft includes highly detailed and accurate cockpits with realistic
+        instrumentation.</br>
+        • New Checklist System - From pro to beginner, scale your level from full manual to full assist with
+        interactive and highlighted instrument guidance and checklist.</p></br>
+
+        <strong>Test Your Skills.</strong></br>
+        <p>• Live Weather – The new weather engine enables users to switch on the live weather mode to experience
+        real-time weather including accurate wind speed and direction, temperature, humidity, rain and more.</br>
+        • New Day & Night Engine - experience flight at any time of day or year allowing for night VFR, visual
+        flight rules, navigation.</br>
+        • Aerodynamic Modeling - a state-of-the-art physics engine with over 1000 control surfaces per plane allows
+        for a truly realistic experience.</p></br>`
     },
 ]
