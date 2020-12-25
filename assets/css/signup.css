@@ -1,0 +1,204 @@
+body {
+    background-image: url('/assets/img/anh2.jpg');
+    background-size: cover;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.logintask {
+    height: 600px;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.pictask {
+    height: 600px;
+    width: 500px;
+    background-image: url('/assets/img/Sign\ Up\ img.jpg');
+    float: left;
+    display: flex;
+    align-items: flex-start;
+    font-size: 50px;
+}
+.ss {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    margin-top: 3%;
+}
+::placeholder {
+    color: gray;
+    font-size: 20px;
+}
+
+.exiticon {
+    float: right;
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    display: flex;
+    align-items: flex-start;
+    font-size: 50px;
+    background-color: rgba(250, 235, 215, 0)
+}
+.exiticon:hover{
+    float: right;
+    position: absolute;
+    top: 15px;
+    right: 30px;
+    display: flex;
+    align-items: flex-start;
+    background-color: rgba(250, 235, 215, 0)
+}
+.exitbutton{
+    font-size: 50px;
+    padding: 0%;
+    border: aliceblue;
+    width: 60px;
+    height: 60px;
+    background-color: rgba(250, 235, 215, 0)
+}
+.exitbutton:hover{
+    font-size: 70px;
+    padding: 0%;
+    border: white;
+    background-color: rgba(250, 235, 215, 0);
+    color: red;
+    width: 80px;
+    height: 80px;
+}
+
+.user {
+    width: 70%;
+    height: 11%;
+    border: 1px solid white;
+    border-bottom: 1px solid black;
+    border-radius: 1mm;
+    font-size: 20px;
+    outline: none;
+    margin: 0px;
+    background-color: white;
+    color: #00203FFF;
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+
+}
+
+.password {
+    width: 70%;
+    height: 11%;
+    border: 1px solid white;
+    border-bottom: 1px solid black;
+    border-radius: 1mm;
+    font-size: 20px;
+    outline: none;
+    margin: 0px;
+    background-color: white;
+
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+
+}
+
+.FP {
+    float: right;
+    font-size: 14px;
+    margin-right: 50px;
+    background-color: white;
+    border: 0px;
+    font-family: arial;
+}
+
+.bigbu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bubig {
+    margin-top: 10px;
+    font-size: 30px;
+    height: 50px;
+    width: 80%;
+    color: white;
+    background-color: rgb(70, 196, 255);
+    border: none;
+    cursor: pointer;
+}
+
+.bubig:hover {
+    background-color: #00539CFF;
+    color: white;
+}
+
+.or {
+    height: 50px;
+    width: 50px;
+    background-color: tomato;
+    color: white;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.hi {
+    text-decoration: none;
+    color: #00203FFF;
+}
+
+.hi:hover {
+    color: tomato;
+    text-decoration: none;
+    font-size: 19px;
+}
+.user1 {
+    width: 65%;
+    height: 11%;
+    border: 1px solid white;
+    border-bottom: 1px solid black;
+    border-radius: 1mm;
+    font-size: 20px;
+    outline: none;
+    margin: 0px;
+    background-color: white;
+    background-image: url('/assets/img/U.jpg');
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    padding: 4px 20px 0px 40px;
+}
+
+.password1 {
+    width: 65%;
+    height: 11%;
+    border: 1px solid white;
+    border-bottom: 1px solid black;
+    border-radius: 1mm;
+    font-size: 20px;
+    outline: none;
+    margin: 0px;
+    background-color: white;
+    background-image: url('/assets/img/d.png');
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    padding: 4px 20px 0px 40px;
+}
+.img{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.iconlog{
+    margin: 7px;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}

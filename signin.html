@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="./assets/css/signin.css">
+    <style>
+        .pictask {
+            height: 600px;
+            width: 500px;
+            background-image: url('./assets/img/anh1.jpg');
+            float: left;
+            display: flex;
+            align-items: flex-start;
+            font-size: 50px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="ss">
+        <div class="logintask">
+            <div
+                style="width: 100%;height: 49%;display: flex;align-items: center;justify-content: center;flex-wrap: wrap;">
+                <h1 style="font-size: 40px;margin: 0px;color: tomato;">Sign In</h1>
+                <input placeholder="Username" class="user1" type="text" id="Username">
+
+                <input placeholder="Password" class="password1" type="password" id="Password">
+            </div>
+            <div style="width: 100%;height: 45%;">
+                <input style="margin:0px; margin-left:50px;" type="checkbox"><label> Remember Me</label>
+                <button class="FP"><a
+                        href="https://www.google.com/search?q=forgot+password&rlz=1C1GCEA_enVN928VN928&oq=fogot+pa&aqs=chrome.1.69i57j0i10i457j0i10l6.3486j0j7&sourceid=chrome&ie=UTF-8">Forgot
+                        Password?</a></button>
+                <div class="bigbu"><button id="SigninBu" class="bubig"><a
+                            style="text-decoration: none;color: white  ;">Sign In</a></button></div>
+                <div class="or">
+                    <a>Or</a>
+
+
+                </div>
+                <div style="display: flex;justify-content:center ;margin-top:30px ;font-size: 17px; color: black;">
+                    <a style="margin-right: 5px;">Don't have account?</a>
+                    <a class="hi" href="./signup.html">Sign Up</a>
+                </div>
+            </div>
+        </div>
+        <div class="pictask"></div>
+    </div>
+    <script src="https://kit.fontawesome.com/2025467e7d.js" crossorigin="anonymous"></script>
+    <script src="/assets/js/signin.js"></script>
+</body>
+<div class="exiticon">
+    <button
+        onclick="document.location='https://www.google.com/search?rlz=1C1GCEA_enVN928VN928&ei=1QfBX_7XEMv6-QaKvKDwBA&q=exit+page&oq=exit+page&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgAEEc6DQgAELEDEIMBEMkDEEM6BQgAELEDOggILhCxAxCDAToICAAQsQMQgwE6DgguELEDEIMBEMcBEK8BOgoIABCxAxDJAxBDOgcIABCxAxBDOgsILhCxAxDHARCjAjoFCC4QsQM6BwgAEMkDEEM6BQgAEJECOgIILjoICAAQyQMQkQI6BAgAEAo6CAguEMcBEK8BUOyMBFintwRgnbkEaABwBHgAgAGOAYgBigmSAQMwLjmYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclien    t=psy-ab&ved=0ahUKEwi-lpjO8qLtAhVLfd4KHQoeCE4Q4dUDCA0&uact=5'"
+        class="exitbutton"><i class="fa fa-sign-out" aria-hidden="true"></i></button>
+</div>
+
+</html>
