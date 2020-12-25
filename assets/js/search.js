@@ -24,7 +24,7 @@ if (search_keyword != null && search_keyword.length > 0) {
                                                     <h3>${formatter.format(product.price)} VND</h3>
                                                 </div>
                                                 <div class="product-center">
-                                                    <button class="buybtn">Mua Ngay</button>
+                                                    <a href="/product.html?id=${product.id}" class="buybtn">Mua Ngay</a>
                                                 </div>
     
                                             </div>`
