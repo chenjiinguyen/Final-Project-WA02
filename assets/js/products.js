@@ -45,7 +45,7 @@ let products = [
         youtube_id: "1DhWXAiNgfQ",
         price: 750000,
         image: "https://hgeqic7azi.vcdn.com.vn/image/catalog/wallet/minecraft-produktbild-460x215.png",
-        infomation: `<h1>THE WORLD IS YOURS FOR THE MAKING</h1></br>
+        infomation: `</br><h1>THE WORLD IS YOURS FOR THE MAKING</h1></br>
         <p>Prepare for an adventure of limitless possibilities as you build, mine, battle mobs, and explore the ever-changing Minecraft landscape.</p></br>
         <img src="https://www.minecraft.net/content/dam/games/minecraft/screenshots/explore.png"></br></br>
         <h1>PLAY TO CREATE</h1></br>
