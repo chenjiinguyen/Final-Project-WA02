@@ -9,7 +9,7 @@ if (search_keyword != null && search_keyword.length > 0) {
     product_result.innerHTML = "";
     for (let i = 0; i < products.length; i++) {
         const product = products[i];
-        if (product.name.search(search_keyword) >= 0) {
+        if (product.name.toLowerCase().search(search_keyword.toLowerCase()) >= 0) {
 
             element_product = document.createElement('div');
             element_product.setAttribute("class", "product")

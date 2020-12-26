@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=	, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let users = [
+            {
+                name: "Kien",
+                username: "kien123",
+                password: "kien0000"
+            }, {
+                name: "Khoi",
+                username: "khoi321",
+                password: "khoi1111"
+            }, {
+                name: "Triet",
+                username: "triet000",
+                password: "triet123"
+            }
+        ]
+        let stringUsers = JSON.stringify(users);
+        localStorage.setItem("users",stringUsers);
+    </script>
+</body>
+</html>
