@@ -162,12 +162,11 @@ body{
 
   
 
-  .title{
+.VNairline{
       font-size: 40px;
       color: rgb(255, 255, 86);
       margin-left: 90px;
       text-align: center;
-      
   }
   .Sub{
       font-size: 60px;
@@ -223,26 +222,26 @@ body{
     margin-right: 10px;
   }
   
-  .dropdown {
+.dropdown {
     position: relative;
     display: inline-block;
   }
   
-  .dropdown-content {
+.dropdown-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
     min-width: 160px;
 
     z-index: 1;
-  }
+}
   
   .dropdown-content a {
     color: black;
     padding: 12px ;
     text-decoration: none;
     display: block;
-  }
+}
   
   .dropdown-content a:hover {background-color: #f1f1f1}
   
@@ -251,12 +250,56 @@ body{
     
     background-color:  gray;
     
-  }
-  .dropdown-content{
+}
+.dropdown-content{
     right: 5px;
     min-width: 200px;
-  }
+}
   
-  .dropdown:hover .dropbtn {
+.dropdown:hover .dropbtn {
     background-color: gray;
-  } 
+} 
+.footer {
+    width: 100%;
+    height: 300px;
+    background-color: gray;
+    text-align: center;
+    border-top:900px solid rgb(58, 58, 58) ;
+    display: flex;
+    align-items: center;
+}
+.loddd{
+    border-radius:100% ;
+    width: 66%;
+    height: 30%;
+    margin: 30px;
+    float: left;
+}
+.kirito{
+    width: 30%;
+    background-color: rgba(240, 248, 255, 0);
+    height: 100%;
+    margin: none;
+    position: relative;
+    font-size: 20px;
+}
+.rem{
+    width: 10%;
+    background-color: rgba(240, 248, 255, 0);
+    height: 100%;
+    margin: none;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.ioi{
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    box-sizing: border-box;
+    color: rgb(68, 68, 68);
+    margin-top:60px ;
+}
